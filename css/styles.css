@@ -8243,6 +8243,8 @@ textarea.form-control-lg {
 .text-black-50 {
   --bs-text-opacity: 1;
   color: rgba(0, 0, 0, 0.5) !important;
+  /* devinlife : a link without underline */
+  text-decoration: none;
 }
 
 .text-white-50 {
